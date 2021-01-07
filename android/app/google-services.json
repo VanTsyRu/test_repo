@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "270893982852",
+    "firebase_url": "https://piligrim-54f61.firebaseio.com",
+    "project_id": "piligrim-54f61",
+    "storage_bucket": "piligrim-54f61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270893982852:android:356f503d869d3bc8f74ed1",
+        "android_client_info": {
+          "package_name": "com.ivtsygankov.pilgrim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270893982852-s7561ja8g18n205dug1cvb2ktmchg3pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSYi0P5lciAFe6geDP1CRBLPjCtcJDxik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270893982852-s7561ja8g18n205dug1cvb2ktmchg3pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270893982852-6p4lvpo1oim4a11pt39mstq5t65066jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ivtsygankov.pilgrim"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270893982852:android:72ac2d07b3642594f74ed1",
+        "android_client_info": {
+          "package_name": "com.piligrim2020.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270893982852-s7561ja8g18n205dug1cvb2ktmchg3pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSYi0P5lciAFe6geDP1CRBLPjCtcJDxik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270893982852-s7561ja8g18n205dug1cvb2ktmchg3pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270893982852-6p4lvpo1oim4a11pt39mstq5t65066jg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ivtsygankov.pilgrim"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
